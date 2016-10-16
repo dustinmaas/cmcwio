@@ -22,7 +22,7 @@ body {
 	
 	margin: 0px;
 	padding: 0px;
-	color: #ffffff;
+	color: #dddddd;
 	font-family: Consolas, Conv_Consolas, monaco, monospace;
 	font-size:14px;
 	line-height: 180%;
@@ -70,7 +70,7 @@ a {
 
 a:hover {
 	text-decoration:none; 
-	/*color: #8dbbc6;*/
+	color: #ffffff;
 	font-weight: bold;
 }
 
@@ -126,7 +126,7 @@ a:hover {
 #header{
 	border-style: solid;
     border-width: 0px 0px 1px 0px;
-    border-color: #333333;
+    border-color: #666666;
     padding-bottom: 30px;
     position: relative;
 }
