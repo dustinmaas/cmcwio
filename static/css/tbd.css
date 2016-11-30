@@ -63,7 +63,7 @@ th, td {
 
 a {
 	color: inherit;
-	text-decoration:none;
+	text-decoration: underline;
 	outline: none;
 	font-weight: bold;
 }
